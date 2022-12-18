@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yagaagowtham Palanikumar"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yagaagowtham Palanikumar"
 description              : &description "Machine Learning Engineer"
@@ -83,11 +83,11 @@ author:
   name             : "Yagaagowtham Palanikumar"
   avatar           : "profile.jpg"
   bio              : "ML Ops | iOS | MSCS@ASU | Looking for summer '23 internships"
-  location         : "Tempe, AZ"
   employer         : "Arizona State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Tempe, AZ"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "gowthamyagaa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,23 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yagaag"
   google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yagaagowtham/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "yagaagowtham"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57217018795"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
