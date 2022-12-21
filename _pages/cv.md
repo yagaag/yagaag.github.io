@@ -15,6 +15,7 @@ Master of Science in Computer Science, Arizona State University, Tempe
 * August 2022 to May 2024
 * Grade: 4.0/4.0
 * Courses: Foundations of Algorithms, Software Design, Applied Cryptography
+
 Bachelor of Technology in Information Technology, SASTRA University, India
 * July 2016 to May 2020 
 * Grade: 7.4/10
